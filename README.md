@@ -10,7 +10,7 @@ STM32CubeProgrammer is required to save neural network weights to external NOR F
 4. Open STM32CubeProgrammer and in the External loaders section select the MT25TL01G_STM32H750B-DISCO external loader. It will be used to upload the weights of the neural network into the external NOR flash of the STM32H750B-DK board as the internal flash is not large enough.
 5. Connect to the STM32H750B-DK board using the ST-LINK connection in the top right corner of STM32CubeProgrammer.
 6. Move to the Erasing & Programming section and under Download select the File path: *DisplayTutorial/mnist_nn_data.bin*.
-7. All other setting are left at default values. Press the Start Programming button.
+7. Set the Start Address to: *0x90000000*. Press the Start Programming button.
 8. Once the weights are succesfully uploaded onto the board disconect the board using the button in the top right of the screen.
 9. The STM32H750B-DK board might have to be restarted a few times using the black RST button untill graphical user interface can be seen on the LCD display.
 10. The board is now ready to be used.
