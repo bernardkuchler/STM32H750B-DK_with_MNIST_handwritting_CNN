@@ -52,7 +52,7 @@ Drivers/BSP/stm32h750b_discovery_sdram.o: \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
  ../Drivers/BSP/stm32h750b_discovery_errno.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/mt48lc4m32b2/mt48lc4m32b2.h \
+ c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\mt48lc4m32b2\mt48lc4m32b2.h \
  ../Core/Inc/mt48lc4m32b2_conf.h
 ../Drivers/BSP/stm32h750b_discovery_sdram.h:
 ../Core/Inc/stm32h750b_discovery_conf.h:
@@ -106,5 +106,5 @@ Drivers/BSP/stm32h750b_discovery_sdram.o: \
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 ../Drivers/BSP/stm32h750b_discovery_errno.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/mt48lc4m32b2/mt48lc4m32b2.h:
+c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\mt48lc4m32b2\mt48lc4m32b2.h:
 ../Core/Inc/mt48lc4m32b2_conf.h:

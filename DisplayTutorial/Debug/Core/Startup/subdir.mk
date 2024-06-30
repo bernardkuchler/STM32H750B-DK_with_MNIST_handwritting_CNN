@@ -1,6 +1,6 @@
 ################################################################################
 # Automatically-generated file. Do not edit!
-# Toolchain: GNU Tools for STM32 (12.3.rel1)
+# Toolchain: GNU Tools for STM32 (10.3-2021.10)
 ################################################################################
 
 # Add inputs and outputs from these tool invocations to the build variables 
@@ -16,7 +16,7 @@ S_DEPS += \
 
 # Each subdirectory must supply rules for building sources it contributes
 Core/Startup/%.o: ../Core/Startup/%.s Core/Startup/subdir.mk
-	arm-none-eabi-gcc -mcpu=cortex-m7 -g3 -DDEBUG -c -I"C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Middlewares/ST/AI/Inc" -I"C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/X-CUBE-AI" -I"C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/X-CUBE-AI/App" -x assembler-with-cpp -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "$@" "$<"
+	arm-none-eabi-gcc -mcpu=cortex-m7 -g3 -DDEBUG -c -I"C:/Users/Kuchler/OneDrive/Namizje/Github-Tutorstvo-Keras/STM32H750B-DK_with_MNIST_handwritting_CNN/DisplayTutorial/Middlewares/ST/AI/Inc" -I"C:/Users/Kuchler/OneDrive/Namizje/Github-Tutorstvo-Keras/STM32H750B-DK_with_MNIST_handwritting_CNN/DisplayTutorial/X-CUBE-AI" -I"C:/Users/Kuchler/OneDrive/Namizje/Github-Tutorstvo-Keras/STM32H750B-DK_with_MNIST_handwritting_CNN/DisplayTutorial/X-CUBE-AI/App" -x assembler-with-cpp -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "$@" "$<"
 
 clean: clean-Core-2f-Startup
 

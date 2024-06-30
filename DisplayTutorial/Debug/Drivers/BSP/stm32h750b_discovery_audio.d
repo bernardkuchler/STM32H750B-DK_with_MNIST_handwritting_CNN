@@ -52,11 +52,11 @@ Drivers/BSP/stm32h750b_discovery_audio.o: \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
  ../Drivers/BSP/stm32h750b_discovery_errno.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/wm8994/wm8994.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/wm8994/wm8994_reg.h \
+ c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\wm8994\wm8994.h \
+ c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\wm8994\wm8994_reg.h \
  ../Drivers/CMSIS/Include/cmsis_compiler.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/Common/audio.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Middlewares/ST/STM32_Audio/Addons/PDM/Inc/pdm2pcm_glo.h \
+ c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\common\audio.h \
+ C:/Users/Kuchler/OneDrive/Namizje/Github-Tutorstvo-Keras/STM32H750B-DK_with_MNIST_handwritting_CNN/DisplayTutorial/Middlewares/ST/STM32_Audio/Addons/PDM/Inc/pdm2pcm_glo.h \
  ../Drivers/BSP/stm32h750b_discovery_bus.h
 ../Drivers/BSP/stm32h750b_discovery_audio.h:
 ../Core/Inc/stm32h750b_discovery_conf.h:
@@ -110,9 +110,9 @@ Drivers/BSP/stm32h750b_discovery_audio.o: \
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 ../Drivers/BSP/stm32h750b_discovery_errno.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/wm8994/wm8994.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/wm8994/wm8994_reg.h:
+c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\wm8994\wm8994.h:
+c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\wm8994\wm8994_reg.h:
 ../Drivers/CMSIS/Include/cmsis_compiler.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/Common/audio.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Middlewares/ST/STM32_Audio/Addons/PDM/Inc/pdm2pcm_glo.h:
+c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\common\audio.h:
+C:/Users/Kuchler/OneDrive/Namizje/Github-Tutorstvo-Keras/STM32H750B-DK_with_MNIST_handwritting_CNN/DisplayTutorial/Middlewares/ST/STM32_Audio/Addons/PDM/Inc/pdm2pcm_glo.h:
 ../Drivers/BSP/stm32h750b_discovery_bus.h:

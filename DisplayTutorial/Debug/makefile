@@ -1,6 +1,6 @@
 ################################################################################
 # Automatically-generated file. Do not edit!
-# Toolchain: GNU Tools for STM32 (12.3.rel1)
+# Toolchain: GNU Tools for STM32 (10.3-2021.10)
 ################################################################################
 
 -include ../makefile.init
@@ -70,8 +70,8 @@ all: main-build
 main-build: DisplayTutorial.elf secondary-outputs
 
 # Tool invocations
-DisplayTutorial.elf DisplayTutorial.map: $(OBJS) $(USER_OBJS) C:\Users\Adminj\Desktop\Tutorstvo-Projekti\Github\DisplayTutorial_STM32H750B-DK\DisplayTutorial\STM32H750XBHX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "DisplayTutorial.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\Adminj\Desktop\Tutorstvo-Projekti\Github\DisplayTutorial_STM32H750B-DK\DisplayTutorial\STM32H750XBHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="DisplayTutorial.map" -Wl,--gc-sections -static -L"C:\Users\Adminj\Desktop\Tutorstvo-Projekti\Github\DisplayTutorial_STM32H750B-DK\DisplayTutorial\Middlewares\ST\AI\Lib" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+DisplayTutorial.elf DisplayTutorial.map: $(OBJS) $(USER_OBJS) C:\Users\Kuchler\OneDrive\Namizje\Github-Tutorstvo-Keras\STM32H750B-DK_with_MNIST_handwritting_CNN\DisplayTutorial\STM32H750XBHX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "DisplayTutorial.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m7 -T"C:\Users\Kuchler\OneDrive\Namizje\Github-Tutorstvo-Keras\STM32H750B-DK_with_MNIST_handwritting_CNN\DisplayTutorial\STM32H750XBHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="DisplayTutorial.map" -Wl,--gc-sections -static -L"C:\Users\Kuchler\OneDrive\Namizje\Github-Tutorstvo-Keras\STM32H750B-DK_with_MNIST_handwritting_CNN\DisplayTutorial\Middlewares\ST\AI\Lib" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

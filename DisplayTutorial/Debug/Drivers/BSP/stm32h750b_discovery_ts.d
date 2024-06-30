@@ -52,10 +52,10 @@ Drivers/BSP/stm32h750b_discovery_ts.o: \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
  ../Drivers/BSP/stm32h750b_discovery_errno.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/ft5336/ft5336.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/ft5336/ft5336_reg.h \
+ c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\ft5336\ft5336.h \
+ c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\ft5336\ft5336_reg.h \
  ../Core/Inc/ft5336_conf.h ../Drivers/BSP/stm32h750b_discovery_bus.h \
- C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/Common/ts.h
+ c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\common\ts.h
 ../Drivers/BSP/stm32h750b_discovery_ts.h:
 ../Core/Inc/stm32h750b_discovery_conf.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal.h:
@@ -108,8 +108,8 @@ Drivers/BSP/stm32h750b_discovery_ts.o: \
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
 ../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 ../Drivers/BSP/stm32h750b_discovery_errno.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/ft5336/ft5336.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/ft5336/ft5336_reg.h:
+c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\ft5336\ft5336.h:
+c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\ft5336\ft5336_reg.h:
 ../Core/Inc/ft5336_conf.h:
 ../Drivers/BSP/stm32h750b_discovery_bus.h:
-C:/Users/Adminj/Desktop/Tutorstvo-Projekti/Github/DisplayTutorial_STM32H750B-DK/DisplayTutorial/Drivers/BSP/Components/../Components/Common/ts.h:
+c:\users\kuchler\onedrive\namizje\github-tutorstvo-keras\stm32h750b-dk_with_mnist_handwritting_cnn\displaytutorial\drivers\bsp\components\common\ts.h:
