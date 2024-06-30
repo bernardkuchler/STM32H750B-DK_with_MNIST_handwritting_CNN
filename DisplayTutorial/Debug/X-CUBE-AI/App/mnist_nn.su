@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/mnist_nn.c:526:9:mnist_nn_configure_activations	16	static
+../X-CUBE-AI/App/mnist_nn.c:567:9:mnist_nn_configure_weights	16	static
+../X-CUBE-AI/App/mnist_nn.c:618:9:ai_mnist_nn_get_info	160	static
+../X-CUBE-AI/App/mnist_nn.c:665:9:ai_mnist_nn_get_report	160	static
+../X-CUBE-AI/App/mnist_nn.c:712:10:ai_mnist_nn_get_error	16	static
+../X-CUBE-AI/App/mnist_nn.c:719:10:ai_mnist_nn_create	24	static
+../X-CUBE-AI/App/mnist_nn.c:730:10:ai_mnist_nn_create_and_init	88	static
+../X-CUBE-AI/App/mnist_nn.c:765:12:ai_mnist_nn_inputs_get	16	static
+../X-CUBE-AI/App/mnist_nn.c:776:12:ai_mnist_nn_outputs_get	16	static
+../X-CUBE-AI/App/mnist_nn.c:787:11:ai_mnist_nn_destroy	16	static
+../X-CUBE-AI/App/mnist_nn.c:794:9:ai_mnist_nn_init	24	static
+../X-CUBE-AI/App/mnist_nn.c:811:8:ai_mnist_nn_run	24	static
+../X-CUBE-AI/App/mnist_nn.c:819:8:ai_mnist_nn_forward	16	static
